@@ -93,7 +93,7 @@ class User {
     }
 }
 
-public class oasis_task_1 {
+public class Train_Reservation {
 
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);
